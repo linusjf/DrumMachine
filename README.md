@@ -1,3 +1,3 @@
 # FCCReactVite
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/linusjf/FCCReactVite)
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/linusjf/DrumMachine)
